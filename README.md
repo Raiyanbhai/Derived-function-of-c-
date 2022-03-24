@@ -1,1 +1,0 @@
-# Derived-function-of-c-
